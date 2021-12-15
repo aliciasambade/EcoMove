@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EcoMove</string>
+    <string name="email_textView">Email</string>
+    <string name="password_textView">Password</string>
+    <string name="login_textView">Login</string>
+    <string name="newAccount_textView">Create new account</string>
+    <string name="name_editText">Name</string>
+    <string name="password_editText">Password</string>
+    <string name="email_editText">Email</string>
+    <string name="birthday_editText">Age</string>
+    <string name="phoneNumber_editText">Phone Number</string>
+    <string name="newPhoto_textView">Add Perfil Picture</string>
+    <string name="vehicle_selection_text">Select your vehicle</string>
+</resources>
